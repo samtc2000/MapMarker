@@ -5,10 +5,6 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import com.example.work.mapmarker.data.MarkerContract.MarkerEntry;
 
-/**
- * Created by Work on 2017/4/15.
- */
-
 public class MarkerDbHelper extends SQLiteOpenHelper {
 
     public static final String LOG_TAG = MarkerDbHelper.class.getSimpleName();
