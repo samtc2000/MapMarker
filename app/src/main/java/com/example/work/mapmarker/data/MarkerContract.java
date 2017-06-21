@@ -4,10 +4,6 @@ import android.content.ContentResolver;
 import android.net.Uri;
 import android.provider.BaseColumns;
 
-/**
- * Created by Work on 2017/4/15.
- */
-
 public class MarkerContract {
 
     //Create a private constructor to prevent accidental instantiation.
