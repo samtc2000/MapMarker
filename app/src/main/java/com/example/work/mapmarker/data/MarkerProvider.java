@@ -12,10 +12,6 @@ import android.util.Log;
 
 import com.example.work.mapmarker.data.MarkerContract.MarkerEntry;
 
-/**
- * Created by Work on 2017/4/15.
- */
-
 public class MarkerProvider extends ContentProvider {
 
     /** Tag for the log messages */
