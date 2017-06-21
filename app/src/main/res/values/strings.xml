@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Map Marker</string>
+    <string name="error_saving_marker">Not saved. Error occurred.</string>
+    <string name="marker_saved">Saved.</string>
+    <string name="name_needed">Name needed.</string>
+    <string name="location_permissionion_needed">Location permission needed.</string>
+    <string name="no_internet_connection">Please check internet connection.</string>
+    <string name="error_delete_marker">Error occured. Cannot delete.</string>
+    <string name="marker_deleted">Deleted</string>
+
+</resources>
